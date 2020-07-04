@@ -4,6 +4,7 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
+- [Format of Dataset](#dataset_format)
 
 ## About <a name = "about"></a>
 
